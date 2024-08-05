@@ -2,9 +2,7 @@
 
 Sorting algorithm visualization tool to illustrate and compare the mechanics and efficiency of various sorting algorithms in real-time. This tool allows you to change the algorithm, adjust the number of items in the dataset between 1 and 1,000 and change the speed at which the algorithm executes between 1ms and 1000ms.
 
-## Live Demo
 
-[View Live Site Here](https://tylermommsen-sorting-visualizer.vercel.app/)
 
 ## Built With
 
@@ -34,8 +32,6 @@ Sorting algorithm visualization tool to illustrate and compare the mechanics and
 
 - **Heap Sort** - A hybrid stable sorting algorithm derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data.
 
-## Gif
-![sortingvisualizationgif](https://github.com/TylerMommsen/sorting-visualizer/assets/65496518/e2406e34-9b15-44ce-8139-c5f75798b21b)
 
 ## Development
 
@@ -46,13 +42,13 @@ Follow these steps to run the project locally.
 HTTPS
 
 ```sh
-git clone https://github.com/TylerMommsen/pathfinding-visualizer.git
+git clone https://github.com/spsokhi/sorting-visualizer.git
 ```
 
 SSH
 
 ```sh
-git clone git@github.com:TylerMommsen/pathfinding-visualizer.git
+git clone https://github.com/spsokhi/sorting-visualizer.git
 ```
 
 2. Install dependenices
